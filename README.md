@@ -17,3 +17,5 @@ Model used:
 
 
 download the model from the Apple official website : https://developer.apple.com/machine-learning/models/
+
+*Model is not 100% accurate as you can see from the video, I suggest you to train your own personal model or simply use another one.
